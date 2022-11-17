@@ -11,16 +11,17 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
-    padding: 70px; 
+    padding: 70px;
 
 }
 
 .my-nav {
     /* letter-spacing: 8px; */
     word-spacing: 8px;
-    
+
 
 }
+
 .my-nav a {
     margin: 5px;
 }
@@ -52,7 +53,7 @@
 
 }
 
-.my_h1 {
+.my_h1_main {
     text-align: center;
     padding: 90px;
     color: red;
@@ -67,4 +68,15 @@
     text-align: center;
     padding: 90px;
     color: darkred;
+}
+
+.my_main {
+    border: #000080 solid;
+    height: 500px;
+    width: 600px;
+}
+
+.texto_main{
+    padding: 20px;
+    text-align: center;
 }
